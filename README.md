@@ -14,6 +14,6 @@ Welcome to the Bihar Tourism Website repository! This project is a web-based pla
 
 ### Developer
 
-> **Vivek Shaurya**
+> **Shantanu Rai**
 >
 > - _Institute_: Jaypee Institute of Information Technology (JIIT)
